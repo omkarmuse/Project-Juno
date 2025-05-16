@@ -1,2 +1,2 @@
 # Project-Juno
-Third Person Story Game on Unity urp
+Third Person Story Game on Unity urp.
